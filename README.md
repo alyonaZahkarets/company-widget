@@ -18,7 +18,8 @@ Here is how to you get the project up and running on your local machine.
 
 1. **Clone the repository:
 
-   git clone https://github.com/yourusername/company-widget.git
+   git clone git@github.com:alyonaZahkarets/company-widget.git
+   git clone https://github.com/alyonaZahkarets/company-widget.git
    cd company-widget
 
 
